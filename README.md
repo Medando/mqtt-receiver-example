@@ -47,7 +47,7 @@ Starting the example
 To receive your MQTT messages start the simple MQTT subscriber:
 
 ```sh
-python mqtt-subscriber.py
+python mqtt_subscriber.py
 ```
 
 After you configured MQTT in the Android app, you should see something like:
