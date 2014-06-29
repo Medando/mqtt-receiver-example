@@ -16,8 +16,6 @@
 #
 # http://medando.de
 
-__author__ = 'Andreas Schreiber <andreas.schreiber@medando.de>'
-
 
 import paho.mqtt.client as mqtt
 
